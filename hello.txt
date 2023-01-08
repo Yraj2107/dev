@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 latest builds here the fike
+=======
+latest builds here the fik
+
+
+hi how are youe
+>>>>>>> 4c49dba (chanages)
